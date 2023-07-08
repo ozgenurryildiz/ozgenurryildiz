@@ -11,3 +11,4 @@
 <div align="center">
 <img  src="https://komarev.com/ghpvc/?username=ozgenurryildiz&style=flat-square&color=blue" alt=""/>
   </div>
+![Özge's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=nightowl)
