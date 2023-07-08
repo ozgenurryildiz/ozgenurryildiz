@@ -12,5 +12,5 @@
 <img  src="https://komarev.com/ghpvc/?username=ozgenurryildiz&style=flat-square&color=blue" alt=""/>
   </div>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=nightowl"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ozgenurryildiz&show_icons=true&theme=nightowl"/>
 </div>
