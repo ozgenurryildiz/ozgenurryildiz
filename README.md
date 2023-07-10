@@ -25,11 +25,10 @@ I'm a graduate in Computer Science from Sakarya University. I'm a passionate lea
   <img src="https://media.giphy.com/media/68BuPwhY3moYZWdfJy/giphy.gif" width="250"/>
    <img src="https://github-readme-stats.vercel.app/api?username=ozgenurryildiz&show_icons=true&theme=nightowl"/>
 </div>
+
 <div>
- 
-</div>
-<div align="center"><br/>
-### Talking about Personal Stuffs:
+  
+ ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with .Net Core, .Net Mvc, Entity Framework<br /> Pl/Sql, MsSql, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Go Programming.
@@ -37,8 +36,8 @@ I'm a graduate in Computer Science from Sakarya University. I'm a passionate lea
 - 📫 &nbsp; How to reach me: ozgenuryildiz57@gmail.com.
 
 
- 
-
+</div>
+<div align="center"><br/>
 
 <img  src="https://komarev.com/ghpvc/?username=ozgenurryildiz&style=flat-square&color=blue" alt=""/>
   </div>
